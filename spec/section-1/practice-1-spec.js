@@ -11,5 +11,6 @@ describe('practice-1-1', () => {
     const result = collectSameElements(collectionA, collectionB);
 
     expect(result).toEqual(['a', 'e', 'f', 'd']);
+//    expect(1).toEqual(1);
   });
 });
